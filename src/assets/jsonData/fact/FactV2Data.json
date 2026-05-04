@@ -1,0 +1,15 @@
+[
+    {
+        "id": 1,
+        "value": 38,
+        "unit": "K",
+        "label": "Harvest Excellence"
+    },
+    {
+        "id": 2,
+        "value": 28,
+        "unit": "M",
+        "label": "Greener Practices"
+    }
+    
+]

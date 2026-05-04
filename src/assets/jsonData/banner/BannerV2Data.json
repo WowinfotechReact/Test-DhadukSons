@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "thumb": "12.jpg",
+        "title": "Green Harvest",
+        "description": "Dhaduk and Sons Farmer LLP is dedicated to empowering local farmers while cultivating premium organic mangoes.",
+        "buttonText": "Discover More",
+        "buttonIcon": "fas fa-angle-right"
+    },
+    {
+        "id": 2,
+        "thumb": "15.jpg",
+        "title": "Cultivating Futures",
+        "description": "Rooted in sustainable practices and a passion for agriculture, the company blends tradition with innovation to deliver nature’s finest produce.",
+        "buttonText": "Discover More",
+        "buttonIcon": "fas fa-angle-right"
+    }
+]

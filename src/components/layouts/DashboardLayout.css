@@ -1,0 +1,30 @@
+.dashboard-layout {
+    display: flex;
+    height: 100vh;
+}
+
+.dashboard-content {
+    flex: 1;
+    padding: 20px;
+    transition: margin-left 0.3s ease;
+    background: #f9fafb;
+    overflow-y: auto;
+}
+
+/* Sidebar expanded/collapsed effect */
+.dashboard-layout.expanded .dashboard-content {
+    margin-left: 250px;
+}
+
+.dashboard-layout.collapsed .dashboard-content {
+    margin-left: 70px;
+}
+
+/* Mobile View */
+@media (max-width: 768px) {
+
+    .dashboard-layout.expanded .dashboard-content,
+    .dashboard-layout.collapsed .dashboard-content {
+        margin-left: 0;
+    }
+}

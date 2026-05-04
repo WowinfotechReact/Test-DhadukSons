@@ -1,0 +1,17 @@
+.custom-button {
+  color: white !important;
+  padding: 9px 30px !important;
+  font-size: 15px;
+  background-color: #2e7d32;
+  /* background-color: #767d75; */
+}
+
+.custom-button:hover {
+  color: white !important;
+  padding: 9px 30px !important;
+  font-size: 15px;
+  background-color: #767d75 !important;
+}
+.tableHead{
+  text-wrap: nowrap;
+}

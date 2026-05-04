@@ -1,0 +1,86 @@
+{
+  "listData": [
+    {
+      "id": 1,
+      "activeClass": "active",
+      "year": "Step One",
+      "dataTarget": "#timeline-carousel",
+      "dataSlideTo": 0,
+      "ariaCurrent": "true",
+      "ariaLabel": "Slide 1"
+    },
+    {
+      "id": 2,
+      "activeClass": "",
+      "year": "Step Two",
+      "dataTarget": "#timeline-carousel",
+      "dataSlideTo": 1,
+      "ariaCurrent": "true",
+      "ariaLabel": "Slide 2"
+    },
+    {
+      "id": 3,
+      "activeClass": "",
+      "year": "Step Three",
+      "dataTarget": "#timeline-carousel",
+      "dataSlideTo": 2,
+      "ariaCurrent": "true",
+      "ariaLabel": "Slide 3"
+    },
+    {
+      "id": 4,
+      "activeClass": "",
+      "year": "Step Four",
+      "dataTarget": "#timeline-carousel",
+      "dataSlideTo": 3,
+      "ariaCurrent": "true",
+      "ariaLabel": "Slide 3"
+    },
+    {
+      "id": 5,
+      "activeClass": "",
+      "year": "Step Five",
+      "dataTarget": "#timeline-carousel",
+      "dataSlideTo": 4,
+      "ariaCurrent": "true",
+      "ariaLabel": "Slide 4"
+    }
+  ],
+  "infoData": [
+    {
+      "id": 1,
+      "activeClass": "active",
+      "thumb": "8.jpg",
+      "title": "1. Harvesting the Best",
+      "description": "We begin by carefully selecting and hand-picking mangoes at their peak ripeness from trusted, well-maintained orchards. Our team works closely with experienced farmers who understand the perfect timing for harvest — when the fruit offers the best balance of sweetness, juiciness, and aroma. This attention to ripeness not only enhances the flavor but also ensures maximum nutritional value is retained. Each mango is picked with care to avoid bruising and to maintain its natural quality, laying a strong foundation for a premium final product."
+    },
+    {
+      "id": 2,
+      "activeClass": "",
+      "thumb": "9.jpg",
+      "title": "2. Sorting & Cleaning",
+      "description": "Once harvested, the mangoes are transported to our processing facility, where they undergo a detailed sorting process. Here, we separate the fruits based on quality, size, and ripeness, removing any that are damaged, overripe, or underdeveloped. The selected mangoes are then thoroughly washed using clean water and food-safe sanitizing agents. This multi-step cleaning process removes all dirt, sap, pesticide residues, and other impurities — making the fruits safe for further processing and maintaining high hygiene standards throughout."
+    },
+    {
+      "id": 3,
+      "activeClass": "",
+      "thumb": "10.jpg",
+      "title": "3. Processing & Drying",
+      "description": "The cleaned mangoes then enter the processing stage, which varies depending on the intended product. For mango pulp, the fruits are peeled, de-seeded, and blended into a smooth, thick puree ready for use in beverages, desserts, and sauces. For mango powder (amchur), the mangoes are sliced and carefully dehydrated using low-temperature drying techniques that preserve their natural color, flavor, and nutrients. This step is a perfect blend of traditional methods and modern technology, ensuring that the essence of the mango remains intact in every spoonful."
+    },
+    {
+      "id": 4,
+      "activeClass": "",
+      "thumb": "11.jpg",
+      "title": "4. Packaging & Quality Check",
+      "description": "In the final stage, the processed mango product is subjected to a series of rigorous quality checks — including texture, taste, microbial safety, and moisture content — to ensure it meets our uncompromising standards. Once approved, the product is packed in high-quality, food-grade packaging materials that protect it from light, moisture, and air. Our packaging not only ensures extended shelf life but also makes it convenient for transport and storage. Each batch is traceable, labeled clearly, and prepared to deliver consistent quality from our facility to your kitchen."
+    },
+    {
+      "id": 5,
+      "activeClass": "",
+      "thumb": "12.jpg",
+      "title": "5. Packaging",
+      "description": "Once harvested, the mangoes are transported to our processing facility, where they undergo a detailed sorting process. Here, we separate the fruits based on quality, size, and ripeness, removing any that are damaged, overripe, or underdeveloped. The selected mangoes are then thoroughly washed using clean water and food-safe sanitizing agents. This multi-step cleaning process removes all dirt, sap, pesticide residues, and other impurities — making the fruits safe for further processing and maintaining high hygiene standards throughout."
+    }
+  ]
+}

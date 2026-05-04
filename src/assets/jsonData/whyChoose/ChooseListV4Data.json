@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "icon": "29.png",
+    "alt": "Image Not Found",
+    "title": "Wholesome Nutrition",
+    "description": "Prepared using the traditional bilona method, our Gir Cow Ghee retains natural vitamins, good fats, and antioxidants that support digestion, immunity, and daily nourishment."
+  },
+  {
+    "id": 2,
+    "icon": "28.png",
+    "alt": "Image Not Found",
+    "title": "Authentic Purity",
+    "description": "Made from milk sourced from certified, controlled farms with full batch traceability. No blending, no additives, only genuine ghee produced with honesty at the source."
+  },
+  {
+    "id": 3,
+    "icon": "30.png",
+    "alt": "Image Not Found",
+    "title": "Rich Flavor & Aroma",
+    "description": "Slow-cooked in small batches to preserve its natural grain, aroma, and nutty taste qualities that are lost in high-speed industrial processing."
+  },
+  {
+    "id": 4,
+    "icon": "31.png",
+    "alt": "Image Not Found",
+    "title": "Supporting Farmers",
+    "description": "Produced using real milk economics, making sure fair value for responsible farmers who follow traditional and ethical dairy practices."
+  }
+]

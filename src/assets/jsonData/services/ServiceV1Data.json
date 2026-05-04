@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "image": "2.png",
+    "title": "Organic Products ",
+    "description": "Our mangoes are grown from nursery-developed plants and cultivated by trained farmers using cow-based organic practices, ensuring organic integrity from plantation to harvest, not just at sourcing."
+  },
+  {
+    "id": 2,
+    "image": "3.png",
+    "title": "Authenticity of Products",
+    "description": "We know the plant, the farmer, and the farming method behind every mango. This full traceability delivers the true taste, aroma, and consistency of authentic Kesar mangoes across every batch."
+  },
+  {
+    "id": 3,
+    "image": "4.png",
+    "title": "Sustainability Responsibility",
+    "description": "By working directly with farmers through assured buy-back and shared value, we support livelihoods while following responsible farming and processing practices aligned with USDA organic standards."
+  }
+]

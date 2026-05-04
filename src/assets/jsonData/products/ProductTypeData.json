@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "thumb": "1.jpg",
+    "number": "01",
+    "title": "Vision",
+    "description": "We imagine a world where every organic farmer can reach fair markets, where eco-friendly farming grows, and India leads in clean, certified organic produce. By focusing on innovation, trust, and farmers first, we aim to create a transparent supply chain that benefits both growers and consumers, building a healthier future for all."
+  },
+  {
+    "id": 2,
+    "thumb": "3.jpg",
+    "number": "02",
+    "title": "Mission ",
+    "description": "At Dhaduk and Sons Farmer LLP, our mission is to support and promote organic farming by providing a trusted and profitable platform for all farmers, especially small and marginal ones. We believe organic farming empowers rural communities today by ensuring better incomes, healthier land, and safer food for everyone."
+  },
+  {
+    "id": 3,
+    "thumb": "2.jpg",
+    "number": "03",
+    "title": "Core Values",
+    "description": "We support small and marginal farmers through organic farming and a certified supply chain. We focus on quality and careful processing of traditional produce using improved methods. We help farmers grow and succeed. Our values are based on honesty, purpose, and the belief that organic farming improves rural livelihoods."
+  }
+]

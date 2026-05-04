@@ -1,0 +1,19 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /dashboard/
+Disallow: /login/
+
+# Cart & Checkout Pages (IMPORTANT)
+Disallow: /cart
+Disallow: /checkout
+Disallow: /payment
+Disallow: /order
+Disallow: /thank-you
+Disallow: /success
+
+# Block search & query URLs
+Disallow: /search
+Disallow: /*?*
+
+# Sitemap
+Sitemap: https://www.dhadukandsonsfpc.com/sitemap.xml

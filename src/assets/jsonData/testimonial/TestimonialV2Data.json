@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "ratings": 5,
+    "testimonial": "The Organic Kesar Mango Powder tastes just like fresh mangoes—naturally sweet and preservative-free. A must-have for my smoothies!",
+    "name": "Anita Sharma",
+    "designation": "Health Enthusiast",
+    "avatar": "anita.jpg",
+    "quoteIcon": "quote.png"
+  },
+  {
+    "id": 2,
+    "ratings": 4.8,
+    "testimonial": "I love how pure and organic this mango powder is. It’s perfect for desserts and snacks, and my kids enjoy it every day.",
+    "name": "Ramesh Patel",
+    "designation": "Certified Organic Farmer, Gujarat",
+    "avatar": "ramesh.jpg",
+    "quoteIcon": "quote.png"
+  },
+  {
+    "id": 3,
+    "ratings": 4.9,
+    "testimonial": "Shree Hari’s mango powder is farm-fresh and globally certified organic. The authentic sweetness makes it my go-to ingredient for healthy recipes.",
+    "name": "Priya Mehta",
+    "designation": "Nutritionist & Wellness Coach",
+    "avatar": "priya.jpg",
+    "quoteIcon": "quote.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "backgroundImage": "6.jpg",
+    "subheading": "USDA Certified",
+    "heading": "Taste the Authentic Kesar Freeze Dried Mango from Gujarat.",
+    "highlight": "Organic agriculture",
+    "buttonText": "View Product Details"
+  },
+  {
+    "id": 2,
+    "backgroundImage": "5.jpg",
+    "subheading": "Gir Cow Ghee ",
+    "heading": "Prepared Using the Traditional Bilona Method to Preserve the Purity, Nutrition, and Taste of Gir Cow Ghee.",
+    "highlight": "Agriculture matter",
+    "buttonText": "View Product Details"
+  }
+]

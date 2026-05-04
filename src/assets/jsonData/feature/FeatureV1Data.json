@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "title": "Sustainability",
+        "thumb": "17.png"
+    },
+    {
+        "id": 2,
+        "title": "Empowermenty",
+        "thumb": "18.png"
+    },
+    {
+        "id": 3,
+        "title": "Innovation",
+        "thumb": "19.png"
+    },
+    {
+        "id": 4,
+        "title": "Fairness",
+        "thumb": "20.png"
+    }
+]

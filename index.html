@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="theme-color" content="#ffffff" />
+
+    <link rel="icon" type="image/png" href="/assets/img/fav.png" />
+
+    <!-- CSS Async Load -->
+    <link
+      rel="preload"
+      href="/assets/index-vdIYNkbR.css"
+      as="style"
+      onload="this.rel='stylesheet'"
+    />
+    <noscript
+      ><link rel="stylesheet" href="/assets/index-vdIYNkbR.css"
+    /></noscript>
+
+    <!-- Preconnect -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap"
+      rel="stylesheet"
+    />
+
+    <link rel="preconnect" href="https://www.googletagmanager.com" />
+    <link rel="preconnect" href="https://connect.facebook.net" />
+    <link rel="preconnect" href="https://checkout.razorpay.com" />
+
+    <!-- <title>Dhaduk And Sons Farmer LLP</title> -->
+  </head>
+
+  <body>
+    <div id="root"></div>
+
+    <!-- ✅ IMPORTANT: Keep Vite entry like this -->
+    <script type="module" src="/src/main.tsx"></script>
+
+    <!-- Razorpay (Load Only When Needed) -->
+    <script>
+      window.loadRazorpay = function () {
+        if (document.getElementById("razorpay-script")) return;
+
+        const script = document.createElement("script");
+        script.id = "razorpay-script";
+        script.src = "https://checkout.razorpay.com/v1/checkout.js";
+        script.async = true;
+        document.body.appendChild(script);
+      };
+    </script>
+
+    <!-- Delay Tracking Scripts -->
+    <script>
+      window.addEventListener("load", function () {
+        // Google Analytics
+        const gaScript = document.createElement("script");
+        gaScript.src =
+          "https://www.googletagmanager.com/gtag/js?id=G-DFTKKW71ZH";
+        gaScript.async = true;
+        document.head.appendChild(gaScript);
+
+        window.dataLayer = window.dataLayer || [];
+        function gtag() {
+          dataLayer.push(arguments);
+        }
+        gtag("js", new Date());
+        gtag("config", "G-DFTKKW71ZH");
+
+        // Google Tag Manager
+        (function (w, d, s, l, i) {
+          w[l] = w[l] || [];
+          w[l].push({ "gtm.start": new Date().getTime(), event: "gtm.js" });
+          var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s),
+            dl = l != "dataLayer" ? "&l=" + l : "";
+          j.async = true;
+          j.src = "https://www.googletagmanager.com/gtm.js?id=" + i + dl;
+          f.parentNode.insertBefore(j, f);
+        })(window, document, "script", "dataLayer", "GTM-MW9V7B3X");
+
+        // Meta Pixel
+        !(function (f, b, e, v, n, t, s) {
+          if (f.fbq) return;
+          n = f.fbq = function () {
+            n.callMethod
+              ? n.callMethod.apply(n, arguments)
+              : n.queue.push(arguments);
+          };
+          if (!f._fbq) f._fbq = n;
+          n.push = n;
+          n.loaded = true;
+          n.version = "2.0";
+          n.queue = [];
+          t = b.createElement(e);
+          t.async = true;
+          t.src = v;
+          s = b.getElementsByTagName(e)[0];
+          s.parentNode.insertBefore(t, s);
+        })(
+          window,
+          document,
+          "script",
+          "https://connect.facebook.net/en_US/fbevents.js"
+        );
+
+        fbq("init", "1884219228856921");
+        fbq("track", "PageView");
+      });
+    </script>
+  </body>
+</html>

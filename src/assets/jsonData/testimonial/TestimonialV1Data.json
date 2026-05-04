@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "thumb": "3.jpg",
+        "quoteImage": "quote-big.png",
+        "testimonial": "Before partnering with this initiative, selling our mangoes was always uncertain and often unfair. Middlemen would take a huge cut, and we had little support in improving our practices. ",
+        "name": "Ramesh Patil",
+        "designation": " Mango Farmer from Ratnagiri, Maharashtra",
+        "ratings": 4.5
+    },
+    {
+        "id": 2,
+        "thumb": "2.jpg",
+        "quoteImage": "quote-big.png",
+        "testimonial": "Joining this platform has been a turning point for our family farm. We were introduced to ethical farming techniques and learned how to reduce chemical use without compromising on yield.",
+        "name": "Sujata More",
+        "designation": " Second-Generation Mango Farmer, Devgad",
+        "ratings": 4.5
+    },
+    {
+        "id": 3,
+        "thumb": "1.jpg",
+        "quoteImage": "quote-big.png",
+        "testimonial": "Before partnering with this initiative, selling our mangoes was always uncertain and often unfair. Middlemen would take a huge cut, and we had little support in improving our practices. ",
+          "name": "Ramesh Patil",
+        "designation": " Mango Farmer from Ratnagiri, Maharashtra",
+        "ratings": 4.5
+    }
+]
