@@ -150,7 +150,7 @@ const ComboOfferPage = () => {
                         <div className="bg-light  rounded-4 mb-4">
                             <h6 className="fw-bold small mb-2 text-uppercase">Highlights</h6>
                             <div className="row g-2">
-                                <div className="col-6 small">✔ 100% Natural Mango
+                                <div className="col-6 small">✔ USDA Organic Certified
                                 </div>
                                 <div className="col-6 small">✔ Rich in Vitamins & Antioxidants
                                 </div>
