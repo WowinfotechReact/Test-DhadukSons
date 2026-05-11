@@ -99,10 +99,10 @@ const ShopSingleContent = ({
       {productID === "gir-cow-ghee" ? (
         <Helmet>
           {/* Basic Meta Tags */}
-          <title>Buy Organic A2 Gir Cow Ghee | Premium Bilona Method Ghee at Best Price</title>
+          <title>Pure A2 Gir Cow Ghee in India | Dhaduk & Sons</title>
           <meta
             name="description"
-            content="Dhaduk and Sons offers premium Organic A2 Gir Cow Ghee made using the Bilona method. Pure, natural, and rich in nutrients. Buy online today."
+            content="Dhaduk & Sons offers Pure A2 Gir Cow Ghee in India, made from Gir cow milk using the traditional bilona method. Order premium desi ghee today."
           />
           <link
             rel="canonical"
@@ -245,22 +245,19 @@ const ShopSingleContent = ({
             })}
           </script>
         </Helmet>
-      ) : productID === "freeze-dried-mango" ? (
+      ) : productID === "freeze-dried-mango-slices" ? (
         <Helmet>
           {/* Basic Meta Tags */}
-          <title>Natural Dried Mango Slices – Order Healthy Snacks Online</title>
+          <title>Organic Freeze Dried Mango Slices in India | Dhaduk and Sons</title>
           <meta
             name="description"
-            content="Dhaduk and Sons offers premium dried mango slices made from real mangoes, naturally processed for great taste and nutrition. Buy online today!"
+            content="Dhaduk and Sons offers Organic Freeze Dried Mango Slices in India made from premium mangoes for healthy snacking. Order now for natural taste."
           />
-          <link
-            rel="canonical"
-            href="https://www.dhadukandsonsfpc.com/freeze-dried-mango"
-          />
+         <link rel="canonical" href="https://www.dhadukandsonsfpc.com/products/freeze-dried-mango-slices" />
 
           <meta property="og:title" content="Natural Dried Mango Slices – Order Healthy Snacks Online" />
           <meta property="og:site_name" content="Dhaduk and Sons" />
-          <meta property="og:url" content="https://www.dhadukandsonsfpc.com/products/freeze-dried-mango-powder" />
+          <meta property="og:url" content="https://www.dhadukandsonsfpc.com/products/freeze-dried-mango-slices" />
           <meta property="og:description" content="Dhaduk and Sons offers premium dried mango slices made from real mangoes, naturally processed for great taste and nutrition. Buy online today!" />
           <meta property="og:type" content="product" />
           <meta property="og:image" content="https://api.dhadhuksons.wowinfosolutions.com/uploads/product-images/eb9ce5bf-818e-11f0-a465-bc2411520d0d_1771491919743.jpeg" />
@@ -280,7 +277,7 @@ const ShopSingleContent = ({
               "@context": "http://schema.org",
               "@type": "WebPage",
               name: "Natural Dried Mango Slices – Order Healthy Snacks Online",
-              url: "https://www.dhadukandsonsfpc.com/products/freeze-dried-mango-powder",
+              url: "https://www.dhadukandsonsfpc.com/products/freeze-dried-mango-slices",
               description: "Dhaduk and Sons offers premium dried mango slices made from real mangoes, naturally processed for great taste and nutrition. Buy online today!",
               publisher: {
                 "@type": "Organization",
@@ -362,13 +359,13 @@ const ShopSingleContent = ({
           />
           <link
             rel="canonical"
-            href="https://www.dhadukandsonsfpc.com/products/freeze-dried-mango-powder"
+            href="https://www.dhadukandsonsfpc.com/products/freeze-dried-mango-slices-powder"
           />
 
           {/* Open Graph Meta Tags */}
           <meta property="og:title" content="Buy USDA Organic freeze dried Kesar Mango Powder in India" />
           <meta property="og:site_name" content="Dhaduk and Sons" />
-          <meta property="og:url" content="https://www.dhadukandsonsfpc.com/products/freeze-dried-mango-powder" />
+          <meta property="og:url" content="https://www.dhadukandsonsfpc.com/products/freeze-dried-mango-slices-powder" />
           <meta property="og:description" content="Dhaduk and Sons offers premium USDA Organic freeze dried Kesar mango powder in India, made from natural ingredients for rich taste and nutrition. Shop now!" />
           <meta property="og:type" content="product" />
           <meta property="og:image" content="https://api.dhadhuksons.wowinfosolutions.com/uploads/product-images/fc0dce60-7a7f-11f0-a465-bc2411520d0d_1771493066237.jpeg" />
@@ -387,7 +384,7 @@ const ShopSingleContent = ({
               "@context": "http://schema.org",
               "@type": "WebPage",
               name: "Buy USDA Organic freeze dried Kesar Mango Powder in India",
-              url: "https://www.dhadukandsonsfpc.com/products/freeze-dried-mango-powder",
+              url: "https://www.dhadukandsonsfpc.com/products/freeze-dried-mango-slices-powder",
               description: "Dhaduk and Sons offers premium USDA Organic freeze dried Kesar mango powder in India, made from natural ingredients for rich taste and nutrition. Shop now!",
               publisher: {
                 "@type": "Organization",
@@ -440,7 +437,7 @@ const ShopSingleContent = ({
                 "@type": "ListItem",
                 position: 3,
                 name: "USDA Organic Kesar Mango Powder",
-                item: "https://www.dhadukandsonsfpc.com/products/freeze-dried-mango-powder"
+                item: "https://www.dhadukandsonsfpc.com/products/freeze-dried-mango-slices-powder"
               }]
 
             })}
@@ -940,7 +937,7 @@ const ShopSingleContent = ({
                   <p>Enquire now for bulk pricing, samples, and delivery details.</p>
                 </p>
               </div>
-            ) : productID === "freeze-dried-mango" ? (
+            ) : productID === "freeze-dried-mango-slices" ? (
               <div
                 className="product-description-section"
                 style={{ marginTop: "30px" }}
@@ -1175,7 +1172,7 @@ const ShopSingleContent = ({
                   </div>
                 </div>
               </section>
-            ) : productID === "freeze-dried-mango" ? (
+            ) : productID === "freeze-dried-mango-slices" ? (
               <section className="faq-section default-padding">
                 <div className="container">
                   <div className="section-title text-center">
